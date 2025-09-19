@@ -33,10 +33,8 @@ Built a **high-throughput microservice platform** using Rust and Kubernetes.
 Contributed to an open-source GitHub security tool written in **C++**, focused on encryption features.  
 - Improved application reliability by 15% through performance optimization.  
 - Collaborated with a global team of contributors.  
-- [🔗 View Repository](https://github.com/JatoriJenkins/security-tool)
-
----
-
+- [🔗 View Repository](https://github.com/JatoriJenkinsSE/OSS-Tool/blob/main/sentry-lite.md?plain=1)
+  
 ### **3. Cloud-Native Task Management App**  
 > **Duration:** Jan 2022 – Jun 2022  
 Developed a **full-stack web app** for managing tasks with real-time updates.  
