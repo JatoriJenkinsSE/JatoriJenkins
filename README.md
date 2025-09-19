@@ -26,7 +26,7 @@ I thrive on building efficient systems, collaborating with teams, and solving ch
 Built a **high-throughput microservice platform** using Rust and Kubernetes.  
 - Auto-scaled services on **AWS** to handle 100k+ concurrent requests.  
 - Reduced latency by **25%** through optimized event-driven architecture.  
-- [🔗 View Repository][(https://github.com/JatoriJenkinsSE/JatoriJenkinsSE/blob/main/Rust%20Microservice%20Project.md?plain=1)
+- [🔗 View Repository](https://github.com/JatoriJenkinsSE/JatoriJenkinsSE/blob/main/Rust%20Microservice%20Project.md?plain=1)
 
 ### **2. Open-Source Security Tool**  
 > **Duration:** Jun 2022 – Dec 2022  
