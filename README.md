@@ -41,31 +41,21 @@ Developed a **full-stack web app** for managing tasks with real-time updates.
 - Back-end built with **Node.js** and deployed on **GCP**.  
 - Front-end created using **React** with responsive design.  
 - Implemented CI/CD pipeline using **GitHub Actions**.  
-- [🔗 View Repository](https://github.com/JatoriJenkins/task-manager)
+- [🔗 View Repository](https://github.com/JatoriJenkinsSE/taskforge/blob/main/taskforge.md?plain=1)
 
 ---
 
-### **4. Community Volunteer Projects**  
+### **4. Community Volunteer Project**  
 > **Duration:** 2021 – Present  
 Built and maintained several open-source tools for non-profits and community projects.  
 - Focused on **Rust** and **C++** projects.  
-- Example project: [🔗 View Repository](https://github.com/JatoriJenkins/community-tools)
-
----
-
-## 📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JatoriJenkins&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JatoriJenkins&layout=compact&theme=tokyonight)
+- Example project: [🔗 View Repository](https://github.com/JatoriJenkinsSE/communityconnect/blob/main/communityconnect.md?plain=1)
 
 ---
 
 ## 🌐 **Connect With Me**
 
-- **Email:** [jatorijenkins@yahoo.com](mailto:jatorijenkins@yahoo.com)  
-- **LinkedIn:** [linkedin.com/in/jatorijenkins](https://linkedin.com/in/jatorijenkins)  
-- **Portfolio:** *Coming Soon*  
+- **Email:** [jatorijenkins@yahoo.com](mailto:jatorijenkins@yahoo.com)    
 
 ---
 
